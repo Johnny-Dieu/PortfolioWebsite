@@ -48,8 +48,6 @@ const Timeline = () => {
       <br/>
       <br/>
       <SectionTitle>About Me</SectionTitle>
-      <SectionText>Hi</SectionText>
-
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
         {TimeLineData.map((item, index) => (

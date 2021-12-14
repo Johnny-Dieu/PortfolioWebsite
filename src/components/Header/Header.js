@@ -49,13 +49,13 @@ const Header = () => (
     </li>
   </Div2>
   <Div3>
-    <SocialIcons href="https://github.com/Johnny-Dieu">
+    <SocialIcons href="https://github.com/Johnny-Dieu" target="_blank" rel="noopener noreferrer">
       <AiFillGithub size="3rem"/>
     </SocialIcons>
-    <SocialIcons href="https://www.linkedin.com/in/johnny-dieu/">
+    <SocialIcons href="https://www.linkedin.com/in/johnny-dieu/" target="_blank" rel="noopener noreferrer">
       <AiFillLinkedin size="3rem"/>
     </SocialIcons>
-    <SocialIcons href="mailto:johnnydieu@gmail.com">
+    <SocialIcons href="mailto:johnnydieu@gmail.com" target="_blank" rel="noopener noreferrer">
       <AiOutlineMail size="3rem"/>
     </SocialIcons>
   </Div3>

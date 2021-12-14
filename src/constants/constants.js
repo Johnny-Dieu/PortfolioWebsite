@@ -39,9 +39,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: 'Started my journey into programming', },
-  { year: 2019, text: 'Worked as a freelance developer', },
-  { year: 2020, text: 'Started a Technical Support Anaylst Position with Russel Metals Canada (6 months co-op)', },
-  { year: 2020, text: 'Accepted a position at Trillium Health Paretners for Health Informatics Service', },
-  { year: 2021, text: 'Still going strong in programming', },
+  { year: 2018, text: 'Started my journey into development world at Sheridan College', },
+  { year: 2019, text: 'Worked as a Technology Specialist with Eikonic Academy, providing IT support for the school.', },
+  { year: 2020, text: 'Accepted a Technical Support Anaylst Position with Russel Metals Canada (6 months co-op)', },
+  { year: 2020, text: 'Started a position at Trillium Health Paretners for Health Informatics Service', },
+  { year: 2021, text: 'Still going strong in developing!', },
 ];
