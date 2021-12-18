@@ -16,4 +16,8 @@ export const LeftSection = styled.div`
 
     margin: 0 auto;
   }
-`;
+`
+export const Button = styled.button`{
+  font-family: 'Roboto Slab', serif;
+}`
+;

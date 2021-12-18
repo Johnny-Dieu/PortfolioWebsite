@@ -168,6 +168,7 @@ export const SecondaryBtn = styled.button`
 `
 
 export const ButtonBack = styled.div`
+  font-family: 'Roboto Slab', serif;
   width: ${({ alt }) => alt ? '150px' : '262px'};
   height: ${({ alt }) => alt ? '52px' : '64px'};
   border-radius: 50px;
