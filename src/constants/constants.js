@@ -3,7 +3,7 @@ export const projects = [
     title: 'Crypto Book',
     description: "Using ReactJS, React ChartsJS, Coinranking API and Bing News Search API from RapidAPI. This website gives the latest market information, prices and news on Crypto Currencies based on the top 100 popular currencies",
     image: '/images/4.jpg',
-    tags: ['React', 'RapidAPI', 'React Charts'],
+    tags: ['RapidAPI', 'React', 'React Charts'],
     source: 'https://github.com/Johnny-Dieu/CryptoBook',
     visit: 'https://johnnydieu-cryptobook.netlify.app/',
     id: 0,
@@ -18,7 +18,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Rock , Paper, Scissors',
+    title: 'Rock, Paper, Scissors',
     description:"A simple rock paper scissors game using HTML, Javascript and CSS. Try and defeat the computer!",
     image: '/images/2.jpg',
     tags: ['HTML', 'JavaScript', 'CSS'],

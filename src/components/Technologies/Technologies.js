@@ -2,8 +2,8 @@ import React from 'react';
 import { DiFirebase, DiReact} from 'react-icons/di';
 import { SiMicrosoft, SiJava } from 'react-icons/si'
 import { AiFillApple, AiFillGithub } from 'react-icons/ai'
-import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
+import { Section, SectionDivider, SectionText } from '../../styles/GlobalComponents';
+import { List, ListContainer, ListItem, ListParagraph, ListTitle, SectionTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
   <Section id="tech">

@@ -1,13 +1,16 @@
 import React from 'react';
 
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
-import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
+import { Section, SectionDivider, SectionTitle, SectionText } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
 
 const Projects = () => (
-  <Section nopadding id="projects">
+  <Section id="projects">
     <SectionDivider/>
     <SectionTitle main>Projects</SectionTitle>
+    <SectionText>
+      Here are some of my current ongoing projects and ones I have completed. You can find the link and source code linked below. 
+    </SectionText>
     <GridContainer>
       {projects.map(({id, image, title, description, tags, source, visit}) => (
         <BlogCard key={id}>
